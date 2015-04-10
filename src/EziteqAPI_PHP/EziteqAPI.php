@@ -33,4 +33,12 @@ class EziteqAPI {
 	{
 		return new EziteqAPI(EziteqAPI::AUTH_OAUTH2, $args);
 	}
+
+	public function authenticate()
+	{
+		if(is_null($this->authenticated)) {
+			$this->authenticated = true;
+		}
+		return $this->authenticated;
+	}
 }
