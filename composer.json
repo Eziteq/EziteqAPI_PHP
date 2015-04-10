@@ -1,5 +1,5 @@
 {
-    "name": "eziteq/EziteqAPI_PHP"
+    "name": "eziteq/eziteq-api_php"
   , "type": "library"
   , "description": "PHP API Wrapper"
   , "keywords": ["api", "rest", "wrapper", "json"]
