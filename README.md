@@ -1,7 +1,7 @@
 #Eziteq
 
 [![Build Status](https://secure.travis-ci.org/Eziteq/EziteqAPI_PHP.png?branch=master)](http://travis-ci.org/Eziteq/EziteqAPI_PHP)
-[![Latest Stable Version](https://poser.pugx.org/Eziteq/EziteqAPI_PHP/v/stable.png)](https://packagist.org/packages/Eziteq/EziteqAPI_PHP)
+[![Latest Stable Version](https://poser.pugx.org/eziteq/eziteq-api_php/v/stable.svg)](https://packagist.org/packages/eziteq/eziteq-api_php)
 
 A PHP 5.3+ wrapper for Eziteq API requests.
 
