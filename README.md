@@ -9,7 +9,7 @@ A PHP 5.3+ wrapper for Eziteq API requests.
 You can install **EziteqAPI_PHP** via composer or by downloading the source.
 
 #### Via Composer:
-**EziteqAPI_PHP** is available on the Packagist as the [`Eziteq/EziteqAPI_PHP`](http://packagist.org/packages/Eziteq/EziteqAPI_PHP) package.
+**EziteqAPI_PHP** is available on the Packagist as the [`eziteq/eziteq-api_php`](https://packagist.org/packages/eziteq/eziteq-api_php) package.
 
 ```json
 {
