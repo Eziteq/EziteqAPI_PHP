@@ -14,7 +14,7 @@ You can install **EziteqAPI_PHP** via composer or by downloading the source.
 ```json
 {
     "require": {
-        "campaignmonitor/createsend-php": "{version}"
+        "eziteq/eziteq-api_php": "{version}"
     }
 }
 ```
