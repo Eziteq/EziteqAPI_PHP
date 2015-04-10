@@ -1,0 +1,28 @@
+{
+    "name": "eziteq/EziteqAPI_PHP"
+  , "type": "library"
+  , "description": "PHP API Wrapper"
+  , "keywords": ["api", "rest", "wrapper", "json"]
+  , "homepage": "http://eziteq.no"
+  , "license": "MIT"
+  , "authors": [
+        {
+            "name": "Ole Christoffer Thorsen"
+          , "email": "ole@eziteq.no"
+          , "role": "Developer"
+        }
+    ]
+  , "support": {
+        "forum":  "https://groups.google.com/forum/#!forum/ratchet-php"
+      , "issues": "https://github.com/eziteq/EziteqAPI_PHP/issues"
+      , "irc":    "irc://irc.freenode.org/eziteq"
+    }
+  , "autoload": {
+        "psr-0": {
+            "Eziteq": "src"
+        }
+    }
+  , "require": {
+        "php": ">=5.3.9"
+    }
+}
