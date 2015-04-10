@@ -19,7 +19,7 @@
     }
   , "autoload": {
         "psr-0": {
-            "Eziteq": "src"
+            "EziteqAPI_PHP": "src"
         }
     }
   , "require": {
